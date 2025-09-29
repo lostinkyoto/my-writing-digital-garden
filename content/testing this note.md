@@ -1,1 +1,1 @@
-and linking it to [[content/index|index]]
+and linking it to [[index]] 
